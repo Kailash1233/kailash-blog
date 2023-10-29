@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my Blog Guys!</h1>
 
 <br>
-<h3>
+<h3 align="center">
 Welcome to my Blog which contains posts related to Technology and Coding.
 </h3>
 <be>
