@@ -4,8 +4,8 @@
 <h3>
 Welcome to my Blog which contains posts related to Technology and Coding.
 </h3>
-<br>
+<be>
 
-#If there are any queries, please do contact me on the Contact Us Page!
+<p align="center">If there are any queries, please do contact me on the Contact Us Page!</p>
 
-#Please don't forget to give my repository a star! ⭐️
+<p align="center">Please don't forget to give my repository a star! ⭐️</p>
