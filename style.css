@@ -82,6 +82,7 @@ h3 {
 }
 
 header {
+  display: block;
   background: #010409;
   text-align: center;
   padding: 2em 0;
